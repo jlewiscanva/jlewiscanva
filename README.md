@@ -2,7 +2,7 @@
 - 👀 I’m interested in all sorts of things in Tech
 - 🌱 I’m currently learning all about Canva
 - 💞️ I’m looking to collaborate on successful programs of work
-- 📫 How to reach me @jlewis
+- 📫 How to reach me @jordo
 
 <!---
 jlewiscanva/jlewiscanva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
